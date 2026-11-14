@@ -1,3 +1,6 @@
 # python file required for employee_messy_dataset.csv
 # Python 3.12 for requirement.The csv file module for part of library.no need to install
    .openpyxl=3.1.5
+   .matplotlib==3.11.2
+   .numpy=2.5.4
+   .seaborn=0.13.2
