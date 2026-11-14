@@ -18,4 +18,4 @@ Requirement tools
 *XGBoost
 *GridSearchCV
 Author:Subhrajit Bagh
-Status of project week 2 is completed
+Status of project week 2 assignment is completed
